@@ -8,4 +8,4 @@ Actionbar 切换  滑动actionbar菜单
 
 有问题 欢迎fork！
 
- ![image](https://github.com/SIMILARDREAM/TabActionbar/screenshots/Screenshot_2014-11-24-16-44-46.png)
+ ![image](https://github.com/SIMILARDREAM/TabActionbar/blob/master/screenshots/Screenshot_2014-11-24-16-44-46.png)
